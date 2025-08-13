@@ -32,4 +32,4 @@ I enjoy sharing my thoughts and ideas in the "Tech with Tea" ☕ [newsletter](ht
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-![](https://komarev.com/ghpvc/?username=sitammeur&base=1530&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=sitammeur&base=1530&color=blue)
