@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/C5616AQGoDY1jXrGS7Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1668969666674?e=1758758400&v=beta&t=q6iVLernhcZZdVeaHun-cadzBEfarCojj2qAOQ2b72k)]()
+[![MasterHead](profile_banner.jpg)]()
 <h1 align="left">Hi 👋, I'm Sitam Meur</h1>
 <strong>A passionate programmer from India! Let's code and make magic happen! 🚀 🇮🇳</strong>
 
