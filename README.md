@@ -28,10 +28,10 @@
         <li>🎓 Bachelor in <b>Computer Science</b></li>
         <li>🌱 Interested in "<b>LLMs-from-scratch</b>", Gen AI & AI infras.</li>
         <li>🌍 Organizer of <b>Machine Learning Kolkata</b></li>
-        <li>💬 Ask me about AI solutions, technical storytelling & open source.</li>
+        <li>💬 Ask me about AI solutions, technical writing & open source.</li>
         <li>👯 Always open to meaningful collaborations.</li>
         <li>📫 Reach me at <a href="mailto:sitammeur@gmail.com"><b>sitammeur@gmail.com</b></a></li>
-        <li>🎮 Free time: Watching ⚽, stand-up comedy, {FRIENDS, SUITS, ..., nth series}</li>
+        <li>🎮 Free time: Watching ⚽, comedy, {FRIENDS, SUITS, ..., nth series}</li>
       </ul>
     </td>
     <td width="45%" valign="top">
