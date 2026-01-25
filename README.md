@@ -1,34 +1,114 @@
-[![MasterHead](profile_banner.jpg)]()
-<h1 align="left">Hi 👋, I'm Sitam Meur</h1>
-<strong>A passionate programmer from India! Let's code and make magic happen! 🚀 🇮🇳</strong>
+<!-- Header Banner -->
+<img width="100%" src="profile_banner.jpg"/>
 
-## 💫 About Me:
-- 🔭 I am currently working at [Daily Dose of Data Science](https://www.linkedin.com/company/daily-dose-of-ds/).
-- 🌱 I’m interested in the area of "LLMs-from-scratch".
-- 💬 Ask me about AI Solutions, Technical Storytelling.
-- 👯 I’m always open to meaningful collaborations.
-- 📫 You can reach me at sitammeur@gmail.com.
-- ⚽ Fun fact: 90 minuti en el Bernabéu son molto longo.
+<!-- Animated Typing -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=🤖+AI+%26+ML+Engineer;📚+LLM+Enthusiast+%26+Builder;✍️+Technical+Storyteller;🌍+Open+Source+Contributor;🚀+Building+the+Future+with+AI" alt="Typing SVG" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sitammeur3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sitammeur) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sitammeur) [![Facebook](https://img.shields.io/badge/Facebook-%23B92B27.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100084308359740) [![Linktree](https://img.shields.io/badge/-Linktree-FE7A16?logo=Linktree&logoColor=white)](https://linktr.ee/sitammeur) [![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=X&logoColor=white)](https://twitter.com/sitammeur)
+<!-- Animated Line -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
-## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<!-- About Me Section -->
 
-## 💻 Blog Posts:
-Find insights on LLMs, RAGs, and real-world AI agent applications in the "Daily Dose of Data Science" [newsletter](https://join.dailydoseofds.com/). 😊
+## 💫 About Me
 
-## ✍️ GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sitammeur&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sitammeur&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sitammeur&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h3>Hi 👋, I'm Sitam Meur from 🇮🇳</h3>
+      <ul>
+        <li>🤖 <b>AI Engineer</b> at <b>Daily Dose of Data Science</b></li>
+        <li>⚡ Former AI/ML Publisher at <b>Lightning AI</b></li>
+        <li>🌐 GSoC Contributor & Mentor at <b>RUXAILAB</b></li>
+        <li>🎓 Bachelor in <b>Computer Science</b></li>
+        <li>🌱 Interested in "<b>LLMs-from-scratch</b>", Gen AI & AI infras.</li>
+        <li>🌍 Organizer of <b>Machine Learning Kolkata</b></li>
+        <li>💬 Ask me about AI solutions, technical storytelling & open source.</li>
+        <li>👯 Always open to meaningful collaborations.</li>
+        <li>📫 Reach me at <a href="mailto:sitammeur@gmail.com"><b>sitammeur@gmail.com</b></a></li>
+        <li>🎮 Free time: Watching ⚽, stand-up comedy, {FRIENDS, SUITS, ..., nth series}</li>
+      </ul>
+    </td>
+    <td width="45%" valign="top">
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%"/>
+    </td>
+  </tr>
+</table>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sitammeur&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<!-- Connect Section -->
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📫 Connect With Me
 
----
-![](https://komarev.com/ghpvc/?username=sitammeur&base=1530&color=blue)
+<p align="center">
+  <a href="https://linkedin.com/in/sitammeur"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/sitammeur"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://medium.com/@sitammeur"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://instagram.com/sitammeur3"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://linktr.ee/sitammeur"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
+  <a href="mailto:sitammeur@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<!-- Animated Line -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+<!-- GitHub Stats -->
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/sitammeur">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sitammeur&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitammeur&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sitammeur&theme=tokyonight&hide_border=true&background=0D1117" alt="sitammeur" />
+</p>
+
+<!-- Contribution Graph -->
+
+## 🗺️ Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sitammeur&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sitammeur&bg_color=ffffff&color=000000&line=00D9FF&point=000000&area=true&hide_border=true" />
+    <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sitammeur&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
+  </picture>
+</p>
+
+<!-- Newsletter Section -->
+
+## 📰 Daily Dose of Data Science
+
+<p align="center">
+  <a href="https://join.dailydoseofds.com/">
+    <img src="https://img.shields.io/badge/Subscribe%20to%20Newsletter-FF5722?style=for-the-badge&logo=substack&logoColor=white"/>
+  </a>
+</p>
+
+> _Find insights on LLMs, RAGs, and real-world AI agent applications in our newsletter!_
+
+<!-- Dev Quote -->
+
+## ✍️ Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+</p>
+
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sitammeur&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="sitammeur" />
+</p>
+
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
