@@ -4,7 +4,7 @@
 <!-- Animated Typing -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=🤖+AI+%26+ML+Engineer;📚+LLM+Enthusiast+%26+Builder;✍️+Technical+Storyteller;🌍+Open+Source+Contributor;🚀+Building+the+Future+with+AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%A4%96+AI+%26+ML+Engineer;%F0%9F%93%9A+LLM+Enthusiast+%26+Builder;%E2%9C%8D%EF%B8%8F+Technical+Storyteller;%F0%9F%8C%8D+Open+Source+Contributor;%F0%9F%9A%80+Building+the+Future+with+AI" alt="Typing SVG" />
   </a>
 </p>
 
@@ -30,7 +30,7 @@
         <li>💬 Ask me about AI solutions, technical writing & open source.</li>
         <li>👯 Always open to meaningful collaborations.</li>
         <li>📫 Reach me at <a href="mailto:sitammeur@gmail.com"><b>sitammeur@gmail.com</b></a></li>
-        <li>🎮 Free time: Watching ⚽, comedy, {FRIENDS, SUITS, ..., nth}</li>
+        <li>🎮 Free time: Watching ⚽, Comedy, {FRIENDS, SUITS, ..., nth}</li>
       </ul>
     </td>
     <td width="45%" valign="top">
