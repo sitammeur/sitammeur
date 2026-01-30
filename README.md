@@ -57,6 +57,14 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
+<!-- GitHub Trophies -->
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=sitammeur&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="GitHub Trophies"/>
+</p>
+
 <!-- GitHub Stats -->
 
 ## 📊 GitHub Stats
