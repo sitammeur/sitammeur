@@ -69,7 +69,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sitammeur&theme=tokyonight&hide_border=true&background=0D1117" alt="sitammeur" />
+  <img src="https://github-readme-streak-stats-pink-theta.vercel.app?user=sitammeur&theme=tokyonight&hide_border=true&background=0D1117" alt="sitammeur" />
 </p>
 
 <!-- Contribution Graph -->
@@ -78,9 +78,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sitammeur&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sitammeur&bg_color=ffffff&color=000000&line=00D9FF&point=000000&area=true&hide_border=true" />
-    <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sitammeur&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph-sooty.vercel.app/graph?username=sitammeur&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph-sooty.vercel.app/graph?username=sitammeur&bg_color=ffffff&color=000000&line=00D9FF&point=000000&area=true&hide_border=true" />
+    <img alt="Contribution Graph" src="https://github-readme-activity-graph-sooty.vercel.app/graph?username=sitammeur&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
   </picture>
 </p>
 
