@@ -71,13 +71,13 @@
 
 <p align="center">
   <a href="https://github.com/sitammeur">
-    <img height="180em" src="https://github-readme-stats-blue-kappa-15.vercel.app/api?username=sitammeur&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-    <img height="180em" src="https://github-readme-stats-blue-kappa-15.vercel.app/api/top-langs/?username=sitammeur&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=sitammeur&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sitammeur&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-pink-theta.vercel.app?user=sitammeur&theme=tokyonight&hide_border=true&background=0D1117" alt="sitammeur" />
+  <img src="https://github-readme-streak-stats-8oky.vercel.app/?user=sitammeur&theme=tokyonight&hide_border=true&background=0D1117" alt="sitammeur" />
 </p>
 
 <!-- Contribution Graph -->
